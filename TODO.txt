@@ -1,0 +1,15 @@
+set up the redux files 
+with necessary configuration 
+
+Import neccessary dependencies
+
+create the componet for dropzone 
+
+dispatch the result obtained to store 
+
+create a component that obtain the files and uploads
+them to cloudinary
+
+dispatch the resulting url  to store and it to its
+associated file
+
